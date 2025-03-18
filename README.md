@@ -19,8 +19,8 @@ This is a Discord bot powered by the Together API for AI-powered chat responses.
 
 1. Clone this repository:
    ```sh
-   git clone https://github.com/your-repo/discord-ai-chatbot.git
-   cd discord-ai-chatbot
+   git clone https://github.com/DragoonT/discord-bot
+   cd discord-bot
    ```
 
 2. Install dependencies:
